@@ -1,0 +1,16 @@
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.exe
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.deps.json
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.json
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.dev.json
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.dll
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.pdb
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.Form1.resources
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfo.cs
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.dll
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.pdb
+C:\Users\Veysel Üstüntaş\Desktop\C# Proje\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.genruntimeconfig.cache
